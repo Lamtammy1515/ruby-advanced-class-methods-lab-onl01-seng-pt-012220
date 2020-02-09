@@ -58,7 +58,7 @@ class Song
      return array 
    end
    
-   def self.destro_all 
+   def self.destroy_all 
      self.clear 
    end 
 end
