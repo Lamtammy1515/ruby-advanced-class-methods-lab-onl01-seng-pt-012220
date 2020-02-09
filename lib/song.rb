@@ -57,4 +57,8 @@ class Song
      song.artist_name = array.artist_name
      return array 
    end
+   
+   def self.destro_all 
+     self.clear 
+   end 
 end
