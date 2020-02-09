@@ -52,6 +52,6 @@ class Song
    
    def self.create_from_filename(name)
      array = self.new_from_filename(filename)
-     song = self
-     song 
+     song = self.create 
+     song = 
 end
