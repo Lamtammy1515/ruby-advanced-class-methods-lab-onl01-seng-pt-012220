@@ -56,4 +56,5 @@ class Song
      song.name = array.name 
      song.artist_name = array.artist_name
      return array 
+   end
 end
